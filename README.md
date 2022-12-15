@@ -1,7 +1,16 @@
-# Vue 3 + Vite
+# Shorten My URL
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+### A Online URL Shortener
 
-## Recommended IDE Setup
+This personal project is my exploration of frontend web development. It uses Javascript, HTML and CSS with VueJS as the framework. HTTP requests are also utilised to call the bitly API.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+### 🤔 Motivation
+
+* Explore frontend web design
+* First attempt at designing webpages
+* Provide a useful service which helps in SEO
+* Practice error handling based on user input, API errors, et cetera.
+
+# 🚀  Takeaways
+
+Frontend web design is tricky 🤔 Proper implementation of CSS classes helps to reduce code redundancy. Removal of sensitive bearer tokens from public repositories and storing it in `.env.local` helps to secure passwords from others.
